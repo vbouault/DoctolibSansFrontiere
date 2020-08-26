@@ -1,7 +1,7 @@
 {
   "name": "dotolib-hackathon",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@fullcalendar/daygrid": "^5.0.1",
     "@fullcalendar/list": "^5.0.0",
